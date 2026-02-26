@@ -1,0 +1,2 @@
+python-telegram-bot==21.6
+pikepdf==9.4.0
